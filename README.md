@@ -1,6 +1,6 @@
 # Overview
 
-This is a hand crafted release payload used in oc-mirror-e2e testign of release images
+This is a hand crafted release payload used in oc-mirror-e2e testing of release images
 
 ## Creating a release image
 
